@@ -7,7 +7,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Colors.yellow,
           title: Text("Đăng nhập", style: TextStyle(color: Colors.black) ,),
-          centerTitle: true,
+          
         ),
         body: Column(
           children :<Widget>[
